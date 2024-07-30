@@ -53,11 +53,13 @@ object-detection-tracking/
 │   └── coco.names
 │
 ├── object_detection_tracking.py
-├── requirements.txt
 └── README.md
 ```
 ## Contact
 - For any questions or inquiries, please contact anishmaurya088@gmail.com.
+## Note
+- yolov3.weights file is not uplaoded here so plese download and configure this file before running the program.
+
 
   
 

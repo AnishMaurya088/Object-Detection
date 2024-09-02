@@ -55,7 +55,6 @@ object-detection-tracking/
 ├── object_detection_tracking.py
 └── README.md
 ```
-## Project Screenshot:
 ## Contact:
 - For any questions or inquiries, please contact anishmaurya088@gmail.com.
 ## Note:

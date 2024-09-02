@@ -1,15 +1,15 @@
-# Object Detection and Tracking System
+# Object Detection and Tracking System:
 
 This project is a robust object detection and tracking application that utilizes YOLO (You Only Look Once) for real-time object identification and OpenCV for object tracking. The system is designed to detect and track objects in live video streams, providing a user-friendly interface for seamless interaction and visualization.
 
-## Features
+## Features:
 
 - Real-time object detection using YOLO
 - Object tracking with OpenCV
 - Dynamic visualization of detected and tracked objects
 - User-friendly interface for easy interaction
 
-## Tools and Technologies Used
+## Tools and Technologies Used:
 
 - **YOLO (You Only Look Once)**: Real-time object detection framework
 - **OpenCV**: Library for computer vision and image processing tasks
@@ -20,7 +20,7 @@ This project is a robust object detection and tracking application that utilizes
 - **VS Code**: Integrated development environment (IDE)
 - **Docker**: Containerization tool (if applicable)
 
-## Installation and Setup
+## Installation and Setup:
 
 1. **Clone the Repository**
    ```sh
@@ -39,10 +39,10 @@ This project is a robust object detection and tracking application that utilizes
 Copy code
 python object_detection_tracking.py
 ```
- ## Usage
+ ## Usage:
 - Run the object_detection_tracking.py script to start the object detection and tracking.
 - The application will open a video stream window displaying the detected and tracked objects.
-## Project Structure
+## Project Structure:
 ```sh
 
 object-detection-tracking/
@@ -55,9 +55,10 @@ object-detection-tracking/
 ├── object_detection_tracking.py
 └── README.md
 ```
-## Contact
+## Project Screenshot:
+## Contact:
 - For any questions or inquiries, please contact anishmaurya088@gmail.com.
-## Note
+## Note:
 - yolov3.weights file is not uplaoded here so plese download and configure this file before running the program.
 
 
